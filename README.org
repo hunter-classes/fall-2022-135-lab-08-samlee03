@@ -1,14 +1,10 @@
 * Fall 2022 - Lab 08
 
-* Last name:
-
-* First name:
-
-* GitHub username:
-
+* Last name: Lee
+* First name: Sam
+* GitHub username: samlee03
 * Notes:
-
-
+Task E: Image is scaled and read only in 512 x 512
   
 * General instructions:
 - Fill in your name and GitHub username on top.
